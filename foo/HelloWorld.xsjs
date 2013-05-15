@@ -1,2 +1,2 @@
-$.response.setBody("Hello Saphire this is SAP Dshell !!");
+$.sresponse.setBody("Hello Saphire this is SAP Dshell !!");
  
